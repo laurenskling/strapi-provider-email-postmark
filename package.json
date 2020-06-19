@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-email-postmark",
+  "name": "@laurenskling/strapi-provider-email-postmark",
   "version": "1.0.0",
   "description": "Postmark provider for strapi email",
   "keywords": [
